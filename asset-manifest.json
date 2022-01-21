@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-beer-generator/static/css/main.52fc42da.css",
+    "main.js": "/random-beer-generator/static/js/main.cd1d2013.js",
+    "static/js/787.04518d5e.chunk.js": "/random-beer-generator/static/js/787.04518d5e.chunk.js",
+    "index.html": "/random-beer-generator/index.html",
+    "main.52fc42da.css.map": "/random-beer-generator/static/css/main.52fc42da.css.map",
+    "main.cd1d2013.js.map": "/random-beer-generator/static/js/main.cd1d2013.js.map",
+    "787.04518d5e.chunk.js.map": "/random-beer-generator/static/js/787.04518d5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52fc42da.css",
+    "static/js/main.cd1d2013.js"
+  ]
+}
